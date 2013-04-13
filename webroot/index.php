@@ -31,7 +31,7 @@ a:hover {
 
 
 <br /><br />
-<b> All most there!! </b>
+<b> Almost there!! </b>
 
 </body>
 
