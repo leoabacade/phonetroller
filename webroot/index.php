@@ -27,7 +27,7 @@ a:hover {
 <br />
 <img src="logo.jpg" id="logo" title="Phonetroller Logo" />
 <br /><br />
-<a href="http://www.twitter.com/phonetroller">twitter</a> | <a href="https://www.facebook.com/pages/Phonetroller/506683629367369">facebook</a>
+<a href="http://www.twitter.com/phonetroller" target="_blank">twitter</a> | <a href="https://www.facebook.com/pages/Phonetroller/506683629367369"target="_blank" >facebook</a>
 
 <b> All most there!! </b>
 
